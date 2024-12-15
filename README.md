@@ -27,7 +27,7 @@ Follow the steps below to configure Active Directory with Splunk:
 - Ensure proper **network communication** by pinging your Splunk server.
 
 ```bash
-ping 192.168.10.1
+ping 192.168.107.7
 ```
 
 ### 3️⃣ **Install Splunk Universal Forwarder** 🔄
