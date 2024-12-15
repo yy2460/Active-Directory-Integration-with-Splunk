@@ -23,7 +23,7 @@ Follow the steps below to configure Active Directory with Splunk:
 - During installation, **choose "Skip unintended installation"** to avoid the Microsoft license error.
   
 ### 2️⃣ **Configure Network & DNS** 🌐
-- Make sure that **DNS points to your domain controller IP** (e.g., `192.168.10.7`).
+- Make sure that **DNS points to your domain controller IP** (e.g., `192.168.107.7`).
 - Ensure proper **network communication** by pinging your Splunk server.
 
 ```bash
@@ -88,7 +88,7 @@ net start splunkforwarder
 ## **💬 Commands and Configuration Files 📑**
 **🖥️ Ping the Splunk Server**
 ```bash
-ping 192.168.10.1
+ping 192.168.107.1
 ```
 ## **📝 Splunk Forwarder Configuration (inputs.conf)**
 ```ini
