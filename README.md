@@ -95,7 +95,7 @@ net start splunkforwarder
 ## **💬 Commands and Configuration Files 📑**
 **🖥️ Ping the Splunk Server**
 ```bash
-ping 192.168.107.1
+ping 192.168.107.10
 ```
 ## **📝 Splunk Forwarder Configuration (inputs.conf)**
 ```ini
