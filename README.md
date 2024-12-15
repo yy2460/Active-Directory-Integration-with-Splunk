@@ -90,11 +90,6 @@ net start splunkforwarder
 **⚙️ Services Running**
 ![image](https://github.com/user-attachments/assets/fdaf1b4e-9331-43e9-824e-cabfc2997eda)
 
-
-**🔌 Network Configuration Check**
-
-(Verify DNS settings and network communication.)
-
 ---
 
 ## **💬 Commands and Configuration Files 📑**
