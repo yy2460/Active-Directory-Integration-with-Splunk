@@ -115,16 +115,6 @@ net start splunkforwarder
 ```
 ---
 
-## 🎥 Recordings and Demos 📹
-**1️⃣ Domain Joining Process**
-A step-by-step **video tutorial** on how to join a domain and troubleshoot common issues like DNS misconfigurations. Click here to watch the video.
-
-**2️⃣ Splunk Forwarder Setup**
-Watch the **screen recording** for configuring the Splunk forwarder and checking if data is properly received. Watch on YouTube.
-
-**3️⃣ Linux Penetration Testing with Kali**
-Learn how to use **Kali Linux** for penetration testing in your Active Directory environment using **Crowbar**. Watch here.
-
 ---
 
 ## 🛠️ Tools & Technologies Used 🖥️
