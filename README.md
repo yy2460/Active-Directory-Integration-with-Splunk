@@ -77,7 +77,8 @@ net start splunkforwarder
 ## **📸 Screenshots & Visual Guides 📷**
  **🔑 Splunk Data Reception**
 
-(Ensure the data is flowing from the forwarder to the Splunk dashboard.)
+![image](https://github.com/user-attachments/assets/315c6a32-60a2-4ef0-b19e-e0253a5a39ff)
+
 
 **🔌 Network Configuration Check**
 
