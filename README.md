@@ -82,7 +82,6 @@ net start splunkforwarder
 
 
 **🔓 RPS Success Through Crowbar (Kali)**
-![image](https://github.com/user-attachments/assets/9fc65b1d-05fc-44eb-b83f-1b1b5592a0d0)
 
 
 
