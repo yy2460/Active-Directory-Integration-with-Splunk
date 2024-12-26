@@ -77,7 +77,7 @@ net start splunkforwarder
 ## **📸 Screenshots & Visual Guides 📷**
  
 **🔓 RPS Success Through Crowbar (Kali)**
-[RDP-SUCCESS.png](https://github.com/yy2460/Active-Directory-Integration-with-Splunk/blob/main/RDP-SUCCESS.png)
+
 ![RDP-SUCCESS](https://github.com/user-attachments/assets/3270bf7f-a789-471c-95e8-c3b2f9397bca)
 
 
