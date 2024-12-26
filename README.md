@@ -78,7 +78,6 @@ net start splunkforwarder
  **🔑 Splunk Data Reception**
 
 ![image](https://github.com/user-attachments/assets/315c6a32-60a2-4ef0-b19e-e0253a5a39ff)
-https://github.com/yy2460/Active-Directory-Integration-with-Splunk/issues/1#issue-2759483817
 
 
 **🔓 RPS Success Through Crowbar (Kali)**
