@@ -83,7 +83,7 @@ net start splunkforwarder
 
 **🔑 Splunk Data Reception**
 
-![image](https://github.com/user-attachments/assets/315c6a32-60a2-4ef0-b19e-e0253a5a39ff)
+![VirtualBox_windows-10_26_12_2024_02_54_32](https://github.com/user-attachments/assets/fecaca90-5ef2-451b-bfd2-86186f15b0c6)
 [windows-10-screen0.webm](https://github.com/user-attachments/assets/3dc19999-cf68-4f5e-9fe5-181fdd16f85a)
 
 **⚙️ Services Running**
