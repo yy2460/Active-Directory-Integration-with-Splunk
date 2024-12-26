@@ -75,15 +75,13 @@ net start splunkforwarder
 ---
 
 ## **📸 Screenshots & Visual Guides 📷**
- **🔑 Splunk Data Reception**
+ 
+**🔓 RPS Success Through Crowbar (Kali)**
+[RDP-SUCCESS.png](https://github.com/yy2460/Active-Directory-Integration-with-Splunk/blob/main/RDP-SUCCESS.png)
+
+**🔑 Splunk Data Reception**
 
 ![image](https://github.com/user-attachments/assets/315c6a32-60a2-4ef0-b19e-e0253a5a39ff)
-
-
-**🔓 RPS Success Through Crowbar (Kali)**
-RDP-SUCCESS.png
-
-
 
 **⚙️ Services Running**
 ![image](https://github.com/user-attachments/assets/fdaf1b4e-9331-43e9-824e-cabfc2997eda)
