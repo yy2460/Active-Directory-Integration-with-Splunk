@@ -84,6 +84,7 @@ net start splunkforwarder
 **🔑 Splunk Data Reception**
 
 ![image](https://github.com/user-attachments/assets/315c6a32-60a2-4ef0-b19e-e0253a5a39ff)
+[windows-10-screen0.webm](https://github.com/user-attachments/assets/3dc19999-cf68-4f5e-9fe5-181fdd16f85a)
 
 **⚙️ Services Running**
 ![image](https://github.com/user-attachments/assets/fdaf1b4e-9331-43e9-824e-cabfc2997eda)
